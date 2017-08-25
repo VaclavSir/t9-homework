@@ -4,7 +4,7 @@
 
 - Minimal backend:
     - [ ] Function that returns list of strings for a sequence of digits
-    - [ ] Bootstrap a REST server
+    - [x] Bootstrap a REST server
     - [ ] REST endpoint that wraps the afore mentioned function
 - Minimal frontend:
     - [ ] Bootstrap a React app

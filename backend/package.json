@@ -1,0 +1,17 @@
+{
+  "name": "t9-homework-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Václav Šír <vaclav.sir@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "koa": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
