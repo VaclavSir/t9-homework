@@ -12,6 +12,7 @@
     "koa": "^2.3.0"
   },
   "devDependencies": {
+    "jest": "^20.0.4",
     "nodemon": "^1.11.0"
   }
 }
