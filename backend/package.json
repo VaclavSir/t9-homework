@@ -6,7 +6,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon server.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "test": "jest",
+    "test-watch": "jest --watch"
   },
   "dependencies": {
     "koa": "^2.3.0"

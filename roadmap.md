@@ -3,7 +3,7 @@
 ## Minimal Solution
 
 - Minimal backend:
-    - [ ] Function that returns list of strings for a sequence of digits
+    - [x] Function that returns list of strings for a sequence of digits
     - [x] Bootstrap a REST server
     - [ ] REST endpoint that wraps the afore mentioned function
 - Minimal frontend:
