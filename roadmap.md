@@ -7,7 +7,7 @@
     - [x] Bootstrap a REST server
     - [x] REST endpoint that wraps the afore mentioned function
 - Minimal frontend:
-    - [ ] Bootstrap a React app
+    - [x] Bootstrap a React app
     - [ ] Create an input for digits and query the REST server on update
     - [ ] List the result from the server
 
