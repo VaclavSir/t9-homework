@@ -5,7 +5,7 @@
 - Minimal backend:
     - [x] Function that returns list of strings for a sequence of digits
     - [x] Bootstrap a REST server
-    - [ ] REST endpoint that wraps the afore mentioned function
+    - [x] REST endpoint that wraps the afore mentioned function
 - Minimal frontend:
     - [ ] Bootstrap a React app
     - [ ] Create an input for digits and query the REST server on update
